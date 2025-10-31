@@ -2,6 +2,8 @@
 
 Welcome to the STM32 Bare Metal Lab Guide! This repository is designed to provide students with a comprehensive hands-on experience in embedded systems programming using STM32 microcontrollers. The labs cover a range of topics from basic GPIO manipulation to advanced real-time operating system (RTOS) integration.
 
+<img width="250" height="250" alt="image" src="https://github.com/user-attachments/assets/5d753ccf-4845-474e-9b20-a830c16e5da9" />
+
 ## Table of Contents
 
 - [Overview](#overview)
